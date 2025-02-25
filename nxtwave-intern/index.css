@@ -1,0 +1,325 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.card{
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4b212d25fe3_A%20Rare%20Collection%20of%20Insider%20%20Knowledge%2C%20All%20Yours!%20(1).png");
+    background-size: cover;
+    padding: 60px;
+}
+.card-para{
+    color: #cbd5e1;
+}
+.card-button{
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+    color: white;
+    border-radius: 20px;
+    padding:auto;
+    border-width: 2px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.claim{
+    background-color: #0f172a;
+    width:100%
+}
+.claim-heading-cont{
+    padding: 160px;
+}
+.claim-heading{
+    font-size: 50px;
+}
+.claim-para{
+    color: white;
+    padding-top: 90px;
+}
+.Claiminput {
+    border-radius: 10px;
+    padding: 8px;
+    font-size: 14px;
+    background-color: #475163;
+    color: #f8fafc;
+    border: solid 0;
+}
+
+.Claiminput::placeholder {
+    color: #a0afbd;
+    font-weight: 600;
+    padding-left: 8px;
+}
+.form-cont{
+    padding-top: 90px;
+}
+.otp{
+    width: 400px;
+}
+.speaker{
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/645345c7c2106e1bd1c65a6c_Background%20String.png");
+    background-size: cover;
+    overflow: hidden;
+}
+.speaker-para{
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.bottom-container{
+    background-color: #0f172a;
+    width:100%
+}
+.bottom-pic{
+    padding: 150px;
+}
+.bottom-para{
+    color:#5a7184;
+    font-size: 22px;
+    padding-top: 40px;
+}
+.maillink {
+    color: #959ead;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px;
+    margin-top: 5px;
+}
+.bottom-para-1{
+    color:#5a7184;
+    font-size: 22px;
+    padding-top: 150px;
+}
+.Link {
+    color: #959ead;
+    text-decoration: none;
+}
+.Link:hover{
+    color: #ffffff;
+    text-decoration: none;  
+}
+.quicklink {
+    color: #959ead;
+    list-style-type: none;
+    padding: 0;
+}
+.payments{
+    margin-left: 150px;
+}
+.loc-para{
+    color: #959ead;
+    
+}
+.loc-block{
+    align-items: flex-start;
+    margin-top: 48px;
+    display: flex;
+}
+.loc-d{
+    width: 200px;
+    font-size: 15px;
+    line-height: 20px;
+}
+.bottom-container-1 {
+    background-color: #0f172a; 
+    padding: 20px; 
+    text-align: center;
+}
+
+.horizontal-line {
+    height: 1px; 
+    background-color: grey; 
+    width: 90%; 
+    margin: 20px auto;
+}
+.applinks {
+    margin-right: 10px;
+    width: 30px;
+}
+.bot{
+    color: #5a7184;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.bot:hover{
+    color: white;
+    text-decoration: none;
+}
+.bottom-line-1{
+    margin-top: 25px;
+    margin-left: 200px;
+}
+.empowering{
+    background-image: url("https://cdn.prod.website-files.com/64362e90abbff481a6d25ce8/64362e90abbff4e843d25fd4_NxtWave's%20Empowering%20Podcast%20Series%20%20to%20Shape%20your%20Dream%20Career.%20(1).png");
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
+.emp-heading{
+    color: white;
+    font-size: 45px;
+}
+.emp{
+    padding:100px;
+    margin-left: 50px;
+}
+.blockbuster{
+    background-color: #0f172a;
+    width:100%;
+    overflow: hidden;
+}
+.blockbuster-heading{
+    color: white;
+    text-align: center;
+    padding:30px;
+    font-size: 50px;
+}
+.happy-img{
+    height: 30px;
+    width: 30px;
+    margin:10px;
+}
+.happy-container{
+    background-color: #713f1230;
+    border-color: #f59e0b;
+    border-style: solid;
+    width: 250px;
+    color:#f59e0b;
+    border-radius: 40px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.profile-cont{
+    background-color: #1e293b;
+    width: 470px;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.profile-img{
+    width: 60px;
+    height: 60px;
+}
+.dream{
+    background-color: #0f172a;
+    width: 100%;
+    padding:40px;
+}
+.slider-container {
+    width: 100%;
+    overflow: hidden;
+    background: #0f172a;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.slider {
+    display: flex;
+    width: max-content; 
+    animation: slide 20s linear infinite;
+}
+
+.slider img {
+    height: 60px; 
+    margin-right: 20px;
+}
+@keyframes slide {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-50%);
+    }
+}
+.cardforScrollRare {
+    overflow: auto;
+    flex-grow: 1;
+    margin-left: 200px;
+}
+.cardforScrollRare::-webkit-scrollbar {
+    display: none;
+}
+.Rarecard {
+    background-color: #334155;
+    border-radius: 16px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 12px;
+    min-width: 305px;
+    min-height: 500px;
+}
+
+.cardContentRare {
+    width: 100%;
+    background-size: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 200px;
+}
+.trailer-container {
+    padding: 8px;
+}
+
+.trailer {
+    background-color: #60a5fa;
+    border-radius: 24px;
+    width: 80px;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    font-size: 15px;
+    padding: 8px;
+}
+.trailer-icon {
+    background-color: white;
+    border-radius: 40px;
+    color: #60a5fa;
+    font-size: 11px;
+    margin-left: 8px;
+    padding: 4px;
+}
+
+.PersonWorkHeadingRare {
+    color: #f8fafc;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.clock {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.free-buttton{
+    width: 400px;
+    padding:30px;
+}
+.top-container{
+    width: 100%;
+    height:100vh;
+    background-image: linear-gradient(270deg, #0000, #16284521 28%, #1e293b 75%);
+    overflow: hidden;
+}
+.talks{
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.wt-btn{
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    color: white;
+    background-color: transparent;
+    width: 400px;
+    padding:9px;
+    border-radius: 5px;
+}
+.carousel-item {
+    transition: transform 4s ease, opacity 1s ease-out; /* Change 2s to your desired duration */
+  }
+.intern-video{
+    width: 100%;
+    height: 100%;
+}
